@@ -16,7 +16,7 @@ function App() {
 function Avatar() {
   return (
     <div className="img-container">
-      <img src="myPic.jpg" />
+      <img src="myPic.jpg" alt="My Photo" />
     </div>
   );
 }
