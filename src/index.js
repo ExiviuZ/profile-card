@@ -35,7 +35,7 @@ function Intro() {
 
   return (
     <div className="intro">
-      <h1>Mark Angel Papio</h1>
+      <h1>Hello Darkness My Old Friend</h1>
       <h2>Frontend Developer</h2>
       <span>{currentTime}</span>
       <hr />
